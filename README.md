@@ -1,2 +1,2 @@
 # Code Refactor Starter Code
-![alt text](https://github.com/eavalo14/module-1/tree/main/assets/images/webpage.png?raw=true)
+<img src="https://github.com/eavalo14/module-1/blob/main/assets/images/webpage.png" alt="Alt text" title="Optional title">
